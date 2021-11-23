@@ -1,4 +1,5 @@
 # NYC Citi BikeSharing
+[Link to Dashboard](https://public.tableau.com/app/profile/brianna2479/viz/NYCCitiBikeChallenge_16376403057470/CheckoutTimesforUsers?publish=yes)
 ### Overview of the analysis: 
 The purpose of this analysis is to identify trends in the bikesharing business for other potential cities around the US. The data was modeled for New York City to gauge success across time and genders for bikesharing usage. Let's see what we found...
 
